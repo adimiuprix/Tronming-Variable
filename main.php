@@ -68,6 +68,9 @@
 	<!-- Plan Name -->
 	<?php echo $plan['plan_name']; ?>
 
+	<!-- Plan Duration -->
+	<?php echo $plan['duration']; ?>
+
 	<!-- Earning rate -->
 	<?php echo $plan['point_per_day']; ?>
 
